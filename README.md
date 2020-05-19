@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gonzalezulises/DemoPipeline/_apis/build/status/gonzalezulises.pipelines-java?branchName=master)](https://dev.azure.com/gonzalezulises/DemoPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
